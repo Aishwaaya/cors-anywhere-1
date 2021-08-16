@@ -7,7 +7,7 @@ This API enables cross-origin requests to anywhere.
 ### 1. Clone this repository.
 
 ```
-$ git clone https://github.com/sourabhgupta385/cors-anywhere.git
+$ git clone https://github.com/Aishwaaya/cors-anywhere-1.git
 ```
 
 ### 2. Install required packages.
